@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+title: Vim Week
+description: This week in Vim
+show_downloads: false
